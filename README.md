@@ -1,6 +1,5 @@
 # gfg-problems
 
-
 #My solution for some GFG problems
 Reverse a Linked List in groups of given size.
 Delete nodes having greater value on right
